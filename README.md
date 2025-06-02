@@ -26,8 +26,7 @@ A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScrip
   
 ## 📸 Preview
 
-![Simon Game Preview](screenshot.png)  
-*A screenshot or GIF of your game in action can go here.*
+![Simon Game Preview](images/simon.png)  
 
 ## ✨ Demo
 
