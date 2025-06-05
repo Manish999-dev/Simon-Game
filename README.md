@@ -30,7 +30,7 @@ A fun and interactive memory game built using **HTML**, **CSS**, and **JavaScrip
 
 ## ✨ Demo
 
-[Click here to play the game](https://your-live-demo-link.com)
+[Click here to play the game](https://manish999-dev.github.io/Simon-Game/)
 
 ## 📌 Lessons Learned
 
