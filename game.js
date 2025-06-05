@@ -59,6 +59,17 @@ function checkAnswer(currentLevel){
 
     console.log("wrong");
 
+    // Playing the wrong sound if the user presser any wrong pattern
+    playSound("wrong");
+
+    //Changing the background of the body according to the class game-over for 200 milliseconds
+    $("body").addClass("game-over");
+    setTimeout(function () {
+      $("body").removeClass("game-over");
+    }, 200);
+
+    // Displaying the h1  or level title class as Game Over to the user and restarting the game again
+      $("#level-title").text("Game Over, Press Any Key to Restart");
   }
 }
 
